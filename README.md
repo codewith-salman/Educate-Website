@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
 
 ## 🎓 Educate – Online Learning Website  
@@ -40,7 +39,6 @@ Great for:
 - Smooth animations and hover effects  
 - Clean typography for high readability  
 - Lightweight and optimized structure  
-- Easy to modify for any learning niche  
 
 ---
 
