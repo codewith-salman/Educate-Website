@@ -3,11 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Educate Website Logo" width="120" />
-
-<br /><br />
-
 ## 🎓 Educate – Online Learning Website  
 A clean, modern, and student-friendly **Online Education Website** built using HTML, CSS, and JavaScript.  
 Designed to showcase courses, instructors, categories, and learning benefits through an elegant and professional UI.
