@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Educate%20Website/assets/images/desktop.png" alt="Educate Website Logo" width="120"/>
+<img src="Educate%20Website/favicon.svg" alt="Educate Website Logo" width="120"/>
 
 <br />
 <br />
