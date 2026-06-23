@@ -59,8 +59,7 @@ With vibrant visuals, course cards, instructor highlights, and smooth UI interac
 
 Ideal for:
 - E-learning platform concepts  
-- Coaching institute websites  
-- Course landing pages  
+- Coaching institute websites   
 - Portfolio EdTech UI projects  
 - Practice for card layouts and structured content  
 
