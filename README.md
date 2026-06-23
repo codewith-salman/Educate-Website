@@ -21,7 +21,6 @@
 <img src="Educate%20Website/favicon.svg" alt="Educate Website Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">🎓 Educate – Online Learning Website</h1>
 
@@ -65,8 +64,6 @@ Ideal for:
 - Portfolio EdTech UI projects  
 - Practice for card layouts and structured content  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -79,8 +76,6 @@ Ideal for:
 - Clean typography for high readability  
 - Lightweight and optimized structure  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -88,8 +83,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
