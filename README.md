@@ -71,8 +71,7 @@ Ideal for:
 - Hero section with CTA for learners  
 - Organized course categories and course cards  
 - Instructor/institution highlight section  
-- Smooth animations and hover effects  
-- Clean typography for high readability  
+- Smooth animations and hover effects   
 - Lightweight and optimized structure  
 
 ---
